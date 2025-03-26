@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e1703"
+  },
+  "educationLevel": "PrimaryLevel",
+  "classLevel": "Class_1",
+  "courses": [
+    "English - 1",
+    "Urdu - 1",
+    "Mathematics - 1",
+    "Science - 1",
+    "Social Studies - 1",
+    "Islamic Studies - 1",
+    "Computer Education - 1",
+    "Art and Craft - 1",
+    "Physical Education - 1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e1704"
+  },
+  "educationLevel": "PrimaryLevel",
+  "classLevel": "Class_2",
+  "courses": [
+    "English - 2",
+    "Urdu - 2",
+    "Mathematics - 2",
+    "Science - 2",
+    "Social Studies - 2",
+    "Islamic Studies - 2",
+    "Computer Education - 2",
+    "Art and Craft - 2",
+    "Physical Education - 2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e1705"
+  },
+  "educationLevel": "PrimaryLevel",
+  "classLevel": "Class_3",
+  "courses": [
+    "English - 3",
+    "Urdu - 3",
+    "Mathematics - 3",
+    "Science - 3",
+    "Social Studies - 3",
+    "Islamic Studies - 3",
+    "Computer Education - 3",
+    "Art and Craft - 3",
+    "Physical Education - 3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e1706"
+  },
+  "educationLevel": "PrimaryLevel",
+  "classLevel": "Class_4",
+  "courses": [
+    "English - 4",
+    "Urdu - 4",
+    "Mathematics - 4",
+    "Science - 4",
+    "Social Studies - 4",
+    "Islamic Studies - 4",
+    "Computer Education - 4",
+    "Art and Craft - 4",
+    "Physical Education - 4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e1707"
+  },
+  "educationLevel": "PrimaryLevel",
+  "classLevel": "Class_5",
+  "courses": [
+    "English - 5",
+    "Urdu - 5",
+    "Mathematics - 5",
+    "Science - 5",
+    "Social Studies - 5",
+    "Islamic Studies - 5",
+    "Computer Education - 5",
+    "Art and Craft - 5",
+    "Physical Education - 5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e1708"
+  },
+  "educationLevel": "MiddleLevel",
+  "classLevel": "Class_6",
+  "courses": [
+    "English Language - 6",
+    "Urdu Language - 6",
+    "Mathematics - 6",
+    "General Science - 6",
+    "Social Studies - 6",
+    "Islamic Studies - 6",
+    "Computer Science - 6",
+    "Physical Education - 6",
+    "Art and Craft - 6"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e1709"
+  },
+  "educationLevel": "MiddleLevel",
+  "classLevel": "Class_7",
+  "courses": [
+    "English Language - 7",
+    "Urdu Language - 7",
+    "Mathematics - 7",
+    "General Science - 7",
+    "Social Studies - 7",
+    "Islamic Studies - 7",
+    "Computer Science - 7",
+    "Physical Education - 7",
+    "Art and Craft - 7"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e170a"
+  },
+  "educationLevel": "MiddleLevel",
+  "classLevel": "Class_8",
+  "courses": [
+    "English Language - 8",
+    "Urdu Language - 8",
+    "Mathematics - 8",
+    "General Science - 8",
+    "Social Studies - 8",
+    "Islamic Studies - 8",
+    "Computer Science - 8",
+    "Physical Education - 8",
+    "Art and Craft - 8"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e170b"
+  },
+  "educationLevel": "SecondaryLevel",
+  "classLevel": "Class_9",
+  "courses": [
+    "English Language - 9",
+    "Urdu Language - 9",
+    "Mathematics - 9",
+    "Physics - 9",
+    "Chemistry - 9",
+    "Biology - 9",
+    "Islamic Studies - 9",
+    "Pakistan Studies - 9",
+    "Physical Education - 9"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c12c11e2dfb2b1592e170c"
+  },
+  "educationLevel": "SecondaryLevel",
+  "classLevel": "Class_10",
+  "courses": [
+    "English Language - 10",
+    "Urdu Language - 10",
+    "Mathematics - 10",
+    "Physics - 10",
+    "Chemistry - 10",
+    "Biology - 10",
+    "Islamic Studies - 10",
+    "Pakistan Studies - 10",
+    "Physical Education - 10"
+  ]
+}]
